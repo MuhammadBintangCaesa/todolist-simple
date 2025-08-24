@@ -1,6 +1,1 @@
-# simple-todolist
-# todolist-simple
-# todolist-simple
-# todolist-simple
-# todolist-simple
-# todolist-simple
+SIMPLE TODOLIST - FIRTS PROJECT BEFORE
